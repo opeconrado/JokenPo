@@ -38,6 +38,9 @@ O **JokenPo** é um aplicativo mobile desenvolvido em Flutter que simula o clás
 3. Execute `flutter pub get` para baixar as dependências
 4. Execute `flutter run` para iniciar o aplicativo
 
+## Vídeo App Funcionando
+https://github.com/user-attachments/assets/35add2f2-9821-4370-bc75-7036c567c9e2
+
 ---
 
 Desenvolvido por Pedro Conrado usando Flutter
